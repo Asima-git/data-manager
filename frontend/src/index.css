@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.side-bar a.active{
+    background-color: white;
+    color: #043B64;
+   font-weight: 600;
+}
